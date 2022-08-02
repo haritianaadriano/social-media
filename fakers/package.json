@@ -9,9 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "fs": "^0.0.1-security"
-  },
   "devDependencies": {
     "@faker-js/faker": "^7.3.0"
   }
